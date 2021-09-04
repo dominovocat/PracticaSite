@@ -1,0 +1,46 @@
+.resume {
+  height: 100vh;
+  display: block;
+  text-align: center;
+  padding-top: 10vh;
+  line-height: 1.5;
+}
+.name {
+  font-size: xx-large;
+}
+.photo {
+  width: 25vmin;
+  height: 25vmin;
+  border: 2px grey solid;
+  border-radius: 50%;
+}
+.infome{
+  padding: 10px;
+}
+.link{
+  text-align: left;
+  font-size: 23px;
+  border-bottom: 1px solid #000;
+}
+.aboutme {
+  box-sizing: border-box;
+  display: block;
+  margin-right: 250px;
+  margin-left: 250px;
+  text-align: left;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  line-height: 1.7;
+}
+.skills{
+  font-size: xx-large;
+  border-bottom: 1px solid #000;
+}
+.myskill{
+  box-sizing: border-box;
+  display: block;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: left;
+  border-bottom: 3px solid #000;
+}
